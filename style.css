@@ -1,0 +1,79 @@
+.topnav {
+    background-color: green;
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+.topnav b {
+    background-color: white;
+    color: green;
+    font-size: 40px;
+}
+.topnav ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 20px;
+    padding: 10px;
+    margin: 0;
+}
+.section1 {
+    background-image: url(/Images/bg.png);
+    background-blend-mode: overlay;
+    background-size: contain;
+    padding: 50px 50px;
+    margin: 0px;
+    text-align: center;
+    justify-content: space-around;
+    height: 300px
+}
+.section1 .name {
+    font-size: 80px;
+    color: white;
+    
+}
+.section1 p {
+    font-style: italic;
+    color: rgb(177, 226, 177);
+    font-size: 30px;
+}
+.section2 {
+    background-color: rgb(82, 81, 81);
+    height: 350px;
+    text-align: center;
+    padding: 50px 50px;
+    justify-content: space-around;
+}
+.section2 b {
+    font-size: 65px;
+    color: white;
+}
+.section2 .text {
+    font-size: 30px;
+    color: rgb(173, 172, 172);
+    font-style: italic;
+}
+.links2 a {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+.links2 a {
+    color: white;
+    margin-right: 60px;
+}
+.links2 {
+    color: white;
+}
+.foot1 {
+    color: white;
+    float: left;
+    font-size: 20px;
+}
+.foot2 {
+    color: white;
+    float: right;
+    font-size: 22px;
+}
+         
