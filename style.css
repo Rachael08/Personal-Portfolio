@@ -19,7 +19,7 @@
     margin: 0;
 }
 .section1 {
-    background-image: url(./Images/bg.png);
+    background-image: url(Images/bg.png);
     background-blend-mode: overlay;
     background-size: contain;
     padding: 50px 50px;
