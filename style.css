@@ -17,6 +17,12 @@
     font-size: 20px;
     padding: 10px;
     margin: 0;
+    
+}
+
+.topnav .linkk{
+    text-decoration: none;
+    color: white;
 }
 .section1 {
     background-image: url(Images/bg.png);
